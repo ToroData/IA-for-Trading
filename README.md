@@ -11,6 +11,9 @@ This repository contains two projects on quantitative trading, developed as part
     └──── Quantitative Trading                
             └── Project_1_Momentum_Trading.ipynb
             └── Project_2_Breakout_Strategy.ipynb
+            └── Project_2_Breakout_Strategy.html
+            └── Project_3_Smart_Beta_and_Portfolio_Optimization.ipynb
+            └── Project_3_Smart_Beta_and_Portfolio_Optimization.html
           
 
 --------
